@@ -1,1 +1,3 @@
 linguist-language=C++
+Stanford-Bunny/src/glm/* linguist-vendored
+linguist-vendored=false
